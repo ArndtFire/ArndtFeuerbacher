@@ -11,15 +11,16 @@ role: Post-doctoral researcher
 # Organizations/Affiliations
 organizations:
 - name: University of Hohenheim
-  url: ""
+  url: "https://www.uni-hohenheim.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on two main areas: Modelling of rural livelihoods and labour markets in economy-wide models and the interplay between agricultural policy and biodiversity.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Economic modelling
+- Rural labour markets
+- Biodiversity and insect conservation
+- Agricultural policy
 
 education:
   courses:

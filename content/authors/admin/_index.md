@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Arndt Feuerbacher
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Post-doctoral researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Hohenheim
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
